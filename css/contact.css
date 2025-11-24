@@ -23,7 +23,7 @@ body {
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
+    gap: 10px;
     background: white;
     padding: 40px;
     border-radius: 15px;
@@ -34,6 +34,7 @@ body {
 /* Left: Contact Info */
 .contact-info {
     text-align: left;
+    
     
 }
 
@@ -56,6 +57,7 @@ body {
     display: flex;
     align-items: center;
     margin-bottom: 15px;
+    gap: 20px;
 }
 
 .info-item i {
