@@ -79,11 +79,11 @@ body {
     font-size: xx-large;
 }
 
-/* Adjustments for the heading inside .main */
+/* Adjustments for the heading inside .main 
 .main h3 {
     font-size: 1.2rem;
     font-weight: 700;
-}
+}*/
 
 /* Mobile Responsive Design */
 @media (max-width: 768px) {
